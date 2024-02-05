@@ -5,7 +5,6 @@
 **Phone:** +1(469)-350-3404
 
 **Data Analyst, Business Analyst, Business Intelligence, Analyst - Python | R | SQL | Tableau | Power BI - Actively Looking for Full-Time Position.**
-
 ### Education
 Master of Science, Data of Engineering | Southern Methodist University (_May 2023_)
 
