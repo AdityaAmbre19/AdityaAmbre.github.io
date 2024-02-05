@@ -3,8 +3,8 @@
 **Data Analyst, Business Analyst, Business Intelligence, Analyst - Python | R | SQL | Tableau | Power BI - Actively Looking for Full-Time Position.**
 
 **Email:** aambre@smu.edu 
+
 **Phone:** +1(469)-350-3404
-<a href="mailto:aambre@smu.edu">Contact Me</a>
 
 ### Education
 Master of Science, Data of Engineering | Southern Methodist University (_May 2023_)
