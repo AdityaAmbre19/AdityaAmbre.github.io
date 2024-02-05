@@ -16,7 +16,7 @@ Master of Science, Data of Engineering | Southern Methodist University (_May 202
 
  The goal of this project was to develop an accurate predictive model for anticipating the trajectory of COVID-19 cases in the state of Texas. By leveraging the capabilities of **RStudio**, **R**, and **Machine learning**, the objective was to provide timely insights into potential infection trends.Visualized the results on **Tableau** and Imported the dataset from **Excel**.
  
-![Texas](/assets/img/texas.jpg)
+![Texas](/assets/img/Texas.jpg)
 
 
 ### Connect 4 AI Project (Python, Machine Learning, Mini-Max Algorithms)
