@@ -13,7 +13,7 @@ Master of Science, Data of Engineering | Southern Methodist University (_May 202
 ## Projects
 ### Prediction Model for Covid Cases in Texas State (RStudio, Tableau, R, Excel, Machine Learning)
  The goal of this project was to develop an accurate predictive model for anticipating the trajectory of COVID-19 cases in the state of Texas. By leveraging the capabilities of **RStudio**, **R**, and **Machine learning**, the objective was to provide timely insights into potential infection trends.Visualized the results on **Tableau** and Imported the dataset from **Excel**
- [Link to View Project on Github]([(https://github.com/AdityaAmbre19/Prediction-Model-for-Covid-Cases-in-Texas-State])
+[View Project on Github](https://github.com/AdityaAmbre19/Prediction-Model-for-Covid-Cases-in-Texas-State)
 
 
 ### Connect 4 AI Project (Python, Machine Learning, Mini-Max Algorithms)
