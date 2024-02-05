@@ -35,3 +35,5 @@ Implemented a Hospital Database Management System using **Microsoft SQL Server**
 
 ### Car Price Predictor (Machine Learning, Hypothesis Testing, Regression)
 Cleaned and processed a sizable dataset of 430,000 rows and 26 features from Craigslist used car listings. Employed statistical hypothesis testing and feature engineering to enhance data quality. The primary aim was to train a supervised machine learning model capable of predicting car prices based on independent variables.
+
+[View Project on Github](https://github.com/AdityaAmbre19/Car-Price-Predictor)
