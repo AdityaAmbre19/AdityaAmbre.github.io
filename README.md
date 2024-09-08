@@ -9,11 +9,18 @@
 Master of Science, Data Science Engineering | Southern Methodist University (_May 2023_)
 
 ### Work Experience
+**Jr.Data Analyst @ Neebal Technologies (Jan 2018 - July 2021)**
+-	Utilized advanced SQL queries and Power BI dashboards to optimize operational efficiency and enhance service quality in the e-commerce sector, resulting in a 15% improvement in delivery times and a 10% increase in customer satisfaction.
+-	Analyzed consumer behavior patterns using SQL, Excel, and Power BI to implement effective pricing strategies, leading to a 12% increase in profitability in online retail.
+-	Forecasted market demand with Excel models and SQL queries to efficiently plan inventory and develop adaptive pricing strategies for e-commerce products, resulting in a 13% decrease in stockouts and a 9% increase in overall revenue.
+-	Identified key performance indicators using Power BI and Excel, executing strategies that improved revenue generation in digital sales by 14%.
+
 **Data Analyst @ Southern Methodist University (Aug 2021 - May 2024)**
-- Responded to an average of 30 user inquiries daily, diagnosing and resolving technical problems within 85% of cases. Achieving a resolution rate of at least 95% overall.
-- Managed a ticketing system, logging an average of 150 technical issues monthly. Ensured 90% of incidents are resolved.
-- Installed and configured computer hardware, software, and peripherals, conducting 20 system upgrades or installations monthly.
-- Collaborated with cross-functional teams (AV Team, Desktop Support Team) to resolve 30 complex technical problems quarterly. Provided technical information effectively to non-technical users.
+-	Collaborated with cross-functional teams, Senior management teams using SQL, Excel, and Power BI to implement data-driven solutions that improved IT service management, resulting in a 10% improvement in system uptime and service quality. 
+-	Provided technical support for data-related issues, troubleshooting SQL queries, Power BI reports, and Excel models to ensure the accuracy and availability of critical data for decision-making. 
+-	Developed Power BI dashboards to provide real-time insights on IT service requests, improving service delivery times by 10% and enhancing overall satisfaction.
+-	Analyzed student and faculty usage patterns of IT resources using SQL and Excel, optimizing resource allocation and reducing operational costs by 12%.
+
 
 ## Projects
 ### Prediction Model for Covid Cases in Texas State (RStudio, Tableau, R, Excel, Machine Learning)
