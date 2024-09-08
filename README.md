@@ -1,15 +1,15 @@
-# Analyst
+# Data Analyst
 
-**Email:** aambre@smu.edu 
+**Email:** adityaambre1907@gmail.com
 
 **Phone:** +1(469)-350-3404
 
 **Data Analyst, Business Analyst, Business Intelligence, Analyst - Python | R | SQL | Tableau | Power BI - Actively Looking for Full-Time Position.**
 ### Education
-Master of Science, Data of Engineering | Southern Methodist University (_May 2023_)
+Master of Science, Data Science Engineering | Southern Methodist University (_May 2023_)
 
 ### Work Experience
-**IT Support Analyst @ Southern Methodist University (Aug 2021 - May 2023)**
+**Data Analyst @ Southern Methodist University (Aug 2021 - May 2024)**
 - Responded to an average of 30 user inquiries daily, diagnosing and resolving technical problems within 85% of cases. Achieving a resolution rate of at least 95% overall.
 - Managed a ticketing system, logging an average of 150 technical issues monthly. Ensured 90% of incidents are resolved.
 - Installed and configured computer hardware, software, and peripherals, conducting 20 system upgrades or installations monthly.
